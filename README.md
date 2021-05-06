@@ -1,5 +1,8 @@
 # Nuclei Classification and localization
 
+This repro contains results and code related to the publication:
+
+Bidart R, Gangeh MJ, Peikari M, et al. Localization and classification of cell nuclei in post-neoadjuvant breast cancer surgical specimen using fully convolutional networks. In: Progress in Biomedical Optics and Imaging - Proceedings of SPIE. Vol 10581. ; 2018. doi:10.1117/12.2292815
 
 ### Three class problem
 
